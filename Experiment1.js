@@ -14,7 +14,7 @@ var wrap = jQuery('.home-slider');
     var myView = wrap.find('a');
     myHeader.css({
         'text-align':'center',
-        'padding-bottom' : '40px',
+        'padding-bottom' : '10px',
         'font-size':'20px',
     });
 
